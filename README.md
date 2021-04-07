@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Machine Learning and Deep Learning Algorithms and its python libraries 
 - 👯 I love working with the people who share the same interest as mine and I would like to collaborate with them 
 - 💬 I am an Aspiring Data Scientist and I have hands-on experience in Data Exploration, Data Wrangling & Data Pre-processing using Python & R 
-- 💭 Click on this link to see My Works <a href="https://github.com/ramperiannan?tab=repositories">💭</a>
+- 💭 Click on this emoji to see My Works <a href="https://github.com/ramperiannan?tab=repositories">✍️</a>
 
 <p>
     <img class="center" alt="Periannan github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=ramperiannan.ramperiannan"/>
