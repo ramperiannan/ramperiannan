@@ -11,7 +11,7 @@
 - 👯 I love working with the people who share the same interests as mine and I would like to collaborate with them 
 - 💬 I am an Aspiring Data Scientist and I have hands-on experience in Data Exploration, Data Wrangling & Data Pre-processing using Python & R 
 - 💭 Click on this emoji to see My Works <a href="https://github.com/ramperiannan?tab=repositories">✍️</a>
-- 🧑‍🤝‍🧑 Feel free to contact me 
+- 🧑‍🤝‍🧑 Feel free to contact me in any of my social media handles
 
 <p>
     <img class="center" alt="Periannan github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=ramperiannan.ramperiannan"/>
