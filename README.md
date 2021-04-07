@@ -1,4 +1,4 @@
-### Hi👋, I am Peryaannan :simple_smile: 
+### Hi👋, I am Peryaannan 😄
 
 <!--
 **ramperiannan/ramperiannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
