@@ -1,5 +1,11 @@
 ### Hi👋, I am Peryaannan 😄
 
+<p align="center">
+	<a href="https://github.com/ramperiannan"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://www.linkedin.com/in/peryaannan-arulkumar-15a17a167/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+</p>
+
+
 <!--
 **ramperiannan/ramperiannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
