@@ -1,4 +1,4 @@
-### Hi👋, I am Peryaannan 😄
+<h2> Hi👋, I am Peryaannan 😄<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="50"></h2>
 
 <p align="center">
 	<a href="https://github.com/ramperiannan"><img src="imgs/github.svg" alt="GitHub"></a>
@@ -10,8 +10,8 @@
 <!--
 **ramperiannan/ramperiannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
+<p align="center">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+</p>
