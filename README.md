@@ -1,4 +1,4 @@
-<h2> Hi👋, I am Peryaannan 😄<img src="https://media.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif" width="50"></h2>
+<h2> Hi👋, I am Peryaannan 😄<img src="https://media.giphy.com/media/26u4cqVR8dsmedTJ6/giphy.gif" width="50"></h2>
 
 <p align="center">
 	<a href="https://github.com/ramperiannan"><img src="imgs/github.svg" alt="GitHub"></a>
