@@ -6,12 +6,12 @@
 	<a href="https://mail.google.com/mail/u/0/?fs=1&to=periannanram@gmail.com.com&su=SUBJECT&body=BODY&tf=cm"><img src="imgs/gmails.svg" alt="Gmail"></a>
 </p>
 
-
+<p>
+    <img class="center" alt="Manish Sharma's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=ramperiannan.ramperiannan"/>
+</p>
 <!--
 **ramperiannan/ramperiannan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-<p align="center">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -20,4 +20,4 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-</p>
+
