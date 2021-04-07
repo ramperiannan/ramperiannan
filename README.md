@@ -3,6 +3,7 @@
 <p align="center">
 	<a href="https://github.com/ramperiannan"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/peryaannan-arulkumar-15a17a167/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://mail.google.com/mail/u/0/?fs=1&to=periannanram@gmail.com.com&su=SUBJECT&body=BODY&tf=cm"><img src="imgs/gmail.svg" alt="LinkedIn"></a>
 </p>
 
 
